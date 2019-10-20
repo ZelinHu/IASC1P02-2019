@@ -1,0 +1,33 @@
+h1{
+  color: Red;
+  position:absolute;
+  left:100px;
+  top:150px;
+}
+h2,ul,ol{
+  color:green;
+  position:relative;
+  left:20px;
+}
+
+p
+{
+color:blue;
+text-align: center;
+}
+.a{
+  font-size: 30px;
+}
+.b{
+  font-family: "Times New Roman";
+}
+.c{
+  text-transform: uppercase;
+}
+img.d{
+  float:right;
+  border:1px dotted black;
+  margin:0px 0px 15px 20px;
+  padding: 1px 1px 1px 1px;
+  content: inherit;
+}
