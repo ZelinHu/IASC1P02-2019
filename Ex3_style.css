@@ -1,7 +1,7 @@
-div{
-  background-color: green;
-}
-span{
+#d{
+    background-color: green;
+  }
+div.e{
   border: black 2px dotted;
   padding: 5px 1% 5px 1%;
 }
